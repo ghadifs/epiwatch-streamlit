@@ -1,0 +1,10 @@
+streamlit
+feedparser
+smtplib
+email
+pytz
+pandas
+openpyxl
+geopy
+requests
+beautifulsoup4
