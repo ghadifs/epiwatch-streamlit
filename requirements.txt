@@ -1,7 +1,5 @@
 streamlit
 feedparser
-smtplib
-email
 pytz
 pandas
 openpyxl
